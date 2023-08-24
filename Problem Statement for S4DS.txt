@@ -1,0 +1,29 @@
+Problem Statement: Predictive Maintenance for Solar Power Plants
+
+Problem Description: Solar power plants play a crucial role in green energy production,
+ but their efficiency is hampered due to unseen maintance issues and problems in the given features 
+.This model will ensure predicting which solar panels need eary routine checkup than normally assigned
+ time and what factors can change go increase the life of our solar panels 
+
+Solution Requirements:
+
+Features : Name_of_the_buyer , Price , Installation_Date , Company_Name , Area , Energy_consumed_per_day , 
+Defect_Type , Date_when_defect_occured , weather , Temprature , time_of_routine_inspection , Additional info
+
+Role of Supervised Learning : Build a predictive model that uses historical data on solar panel health and 
+includes the listed features which will be used to classify panels as healthy or at risk of failure. 
+The model should provide a probability score indicating the likelihood of a panel failure 
+
+Role of Unsupervised Learning : Use unsupervised clustering techniques to identify patterns in sensor data 
+from the solar panels. Discover hidden relations between mutiple features that might indicate problems occuring 
+in the future by using scatter plot and algorithms like Kmeans Clustering 
+
+Role of Natural Language Processing : By the information in Additional Info coloumn we can gain some more insights to make our predictive model 
+more accurate by indentifying the specific problems if the problem occured due to some storm or birds hit the solar panel or any other reason
+
+Comibination : Combine the results of the supervised , unsupervised learning models and NLP to create a wholesome approach maintenance strategy.
+
+Time series analysis for Real time evaluation : Develop a system that continuously monitors sensor data in real time and updates 
+the predictive models accordingly. This should enable timely adjustments to maintenance schedules and prevent unexpected downtime.
+
+Dataset: Participants will be provided with historical sensor data from multiple solar panels, maintenance records and historical weather conditions
