@@ -1,0 +1,19 @@
+1.) Career Guidance Seminar regarding how to bag a good pre placement offer or a good college while applying for MS . We will skip the generic information which everybody knows and focus on specifics  
+
+Which will include points like 
+• Importance of Hackthons and how to increase your chances of winning one 
+       What are the points we should keep in mind when we participate in it .
+
+• Whenever someone thinks about research papers they get intimidated by it . So we should help them in understanding how to start with it , how can you take the help of proffesers , how to indentify a good innovative idea,How to start working on it etc. It would be really helpful for students who are applying for Masters
+
+• Importance of Non-tech work in your resume : Marketing , Leadership , volunteering , sports competetion etc. explain them how this improves your overall profile 
+
+• Tell them about any new technolgy in data science which has a growing job rate and when and how should we learn it like devops , data mining , Social media Analysis etc
+• Last by not the least . How did the speakers manage coding and college curriculum beacuse if they share their story of how did they achieve their dream pacakage or college that will connect with the students in a much better way 
+
+ The speakers in the seminar should be by students who got ppo or palcement above 15 LPA in a Data science Role and some students who got a good College for doing MS . 
+There should a paticular fees for the seminar so that we only get the students who are serious about their career and not some idiot who came to the seminar to bunk their lecture
+
+You can also promote courses and Education consultants (For MS) through this event and they can be our sponsors 
+
+2) A workshop on how you can integrate data science in the field of robotics . 
