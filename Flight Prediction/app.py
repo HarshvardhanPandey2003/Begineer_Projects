@@ -14,9 +14,6 @@ model = pickle.load(open("flight_rf.pkl", "rb"))
 def home():
     return render_template("home.html")
 
-
-
-
 @app.route("/predict", methods = ["GET", "POST"])
 @cross_origin()
 def predict():
